@@ -23,4 +23,4 @@ my_list.remove(70)
 my_list.sort()
 
 # found and printed the index value of 30 in my_list
-print(my_list[3])
+print(my_list.index(30))
